@@ -10,7 +10,7 @@ This repository contains a Google Colab notebook for performing object detection
 
 ## 🚀 Getting Started
 1. Open the notebook in [Google Colab](https://colab.research.google.com)
-2. Upload your input image/video
+2. Upload your labeled input data
 3. Run each cell step by step
 
 ## 🧰 Requirements
